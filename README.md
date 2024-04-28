@@ -8,4 +8,4 @@ Primary languages (most recent first):
 - Ruby
 - C#
 
-I am the founder of [immersh.com](https://immersh.com), an immersive education for any skill. We are always looking for more instructors and students to get involved, so if you'd like to know more, feel free and email [info@immersh.com](mailto:info@immersh.com).
+I am the founder of [immersh.com](https://immersh.com), an immersive education for any skill. We are always looking for more instructors and students to get involved, so if you'd like to know more, feel free and email info@immersh.com with subject "New (student/instructor) inquiry".
